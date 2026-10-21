@@ -1,0 +1,14 @@
+{
+  "name": "Skee-Ball HD",
+  "version": "0.1",
+  "build": "3",
+  "bundle": "com.dylanmcdonald.skeeballhd",
+  "family": [
+    2
+  ],
+  "port": "CompatibilityProbe",
+  "project": "SkeeBallHD",
+  "header": "SkeeBallHDRespringHeader.webp",
+  "execution": "ARM/Thumb CPU interpreter with legacy iOS/Unity compatibility APIs; no JIT",
+  "original_archive": "Original/Skee-Ball-HD.ipa"
+}

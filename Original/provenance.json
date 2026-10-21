@@ -1,0 +1,9 @@
+{
+  "input_archive_sha256": "b6514416b0243f06249987d63204113deb6288d601ac2dc64af388198d8697c3",
+  "public_archive_sha256": "f8b8c2816c2dfa41469921ce63e19049495848b418788db30175ef1c71a68b88",
+  "processing": "Payload-only ZIP, recompressed; signing/DRM sidecar and account metadata excluded. Remaining payload bytes preserved.",
+  "source": {
+    "source_url": "https://archive.org/download/ios_3_2_ipa/Skee-Ball_HD_v1.0_os32.ipa",
+    "sha256": "b6514416b0243f06249987d63204113deb6288d601ac2dc64af388198d8697c3"
+  }
+}
